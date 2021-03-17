@@ -1,5 +1,10 @@
 [toc]
 
+k8s作用： 
+- 容器调度
+- 容器编排
+- 容器管理 
+
 ### k8s 基础命令
 
 kubectl get pods 查看已存在的pods
